@@ -9,6 +9,8 @@ Welcome to Storiest of Docs like code's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   gaozhijun.rst
 
 
 
